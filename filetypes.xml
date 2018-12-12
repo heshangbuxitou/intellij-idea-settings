@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="HelloController" type="CLASS" />
+      <mapping pattern="Person" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="thrift" type="PLAIN_TEXT" />
+      <mapping ext="prop" type="PLAIN_TEXT" />
+      <removed_mapping ext="thrift" approved="true" type="Thrift" />
+    </extensionMap>
+  </component>
+</application>

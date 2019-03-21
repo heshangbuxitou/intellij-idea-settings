@@ -5,7 +5,6 @@
       <mapping pattern="HelloController" type="CLASS" />
       <mapping pattern="Person" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="thrift" type="PLAIN_TEXT" />
       <mapping ext="prop" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
